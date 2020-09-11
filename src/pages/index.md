@@ -13,18 +13,18 @@ sections:
       - label: Kontaktaufnahme
         url: /contact
         style: button
-      - label: Terminvereinbarung
-        url: 'https://calendly.com/blackboxmd/ctanow'
-        style: button
-        icon_class: ''
-        new_window: false
-        type: action
       - label: Checklisten
         url: >-
           https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
         style: button
         icon_class: ''
         new_window: true
+        type: action
+      - label: Terminvereinbarung
+        url: 'https://calendly.com/blackboxmd/ctanow'
+        style: button
+        icon_class: ''
+        new_window: false
         type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
