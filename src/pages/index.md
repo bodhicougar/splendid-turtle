@@ -23,7 +23,7 @@ sections:
         url: lorem-ipsum
         style: button
         icon_class: ''
-        new_window: false
+        new_window: true
         type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
