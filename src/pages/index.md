@@ -87,7 +87,11 @@ sections:
         style: button
   - title: Video
     section_id: YoutTube Video
-    content: '[https://www.youtube.com/watch?v=QnFyDKjO3wE]'
+    content: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube-nocookie.com/embed/QnFyDKjO3wE" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_hero
 template: advanced
