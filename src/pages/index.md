@@ -26,7 +26,7 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: iK
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
