@@ -19,6 +19,11 @@ sections:
         icon_class: ''
         new_window: false
         type: action
+  - title: 'Wir stellen uns vor:'
+    section_id: YoutTube Video
+    content: "<center>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QnFyDKjO3wE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
+    actions: []
+    type: section_hero
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
@@ -85,10 +90,5 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: 'Wir stellen uns vor:'
-    section_id: YoutTube Video
-    content: "<center>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QnFyDKjO3wE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
-    actions: []
-    type: section_hero
 template: advanced
 ---
