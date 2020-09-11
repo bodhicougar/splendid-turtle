@@ -1,7 +1,7 @@
 {
     "description": "Im Internet gesehen & gefunden werden",
     "color_scheme": "dark",
-    "accent_color": "green",
+    "accent_color": "yellow",
     "header": {
         "title": "Exto",
         "has_nav": true,
