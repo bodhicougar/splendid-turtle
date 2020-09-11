@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Google Ads Studio + Web Strategie: Im Internet gesehen werden!'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google & YouTube
+      - auf Wunsch auch Facebook Ads Kampagnen sowie Werbung auf Amazon -
+      erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
     actions:
       - label: Kontaktaufnahme
         url: /contact
