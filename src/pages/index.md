@@ -12,7 +12,7 @@ sections:
       - label: Kontaktaufnahme
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Terminvereinbarung
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
