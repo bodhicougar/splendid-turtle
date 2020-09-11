@@ -86,7 +86,7 @@ sections:
         url: blog
         style: button
   - title: Video
-    section_id: lorem-ipsum
+    section_id: YoutTube Video
     content: >-
       ## Lorem ipsum
 
