@@ -85,7 +85,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
+  - title: Video
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
