@@ -14,7 +14,7 @@ sections:
         style: button
       - label: Terminvereinbarung
         url: 'https://calendly.com/blackboxmd/ctanow'
-        style: link
+        style: button
         icon_class: ''
         new_window: false
         type: action
