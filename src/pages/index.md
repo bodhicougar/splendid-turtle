@@ -20,7 +20,8 @@ sections:
         new_window: false
         type: action
       - label: Checklisten
-        url: lorem-ipsum
+        url: >-
+          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
         style: button
         icon_class: ''
         new_window: true
