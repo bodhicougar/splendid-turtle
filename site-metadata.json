@@ -36,7 +36,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/BBMD_Logo.jpg"
     },
     "footer": {
         "content": "&copy; Stackbit-Exto. All rights reserved.",
