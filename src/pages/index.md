@@ -87,15 +87,7 @@ sections:
         style: button
   - title: Video
     section_id: YoutTube Video
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: '[https://www.youtube.com/watch?v=QnFyDKjO3wE]'
     actions: []
     type: section_hero
 template: advanced
