@@ -19,7 +19,7 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: Checklisten
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
