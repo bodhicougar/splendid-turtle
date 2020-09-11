@@ -85,7 +85,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: Video
+  - title: ''
     section_id: YoutTube Video
     content: "<center>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QnFyDKjO3wE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
     actions: []
