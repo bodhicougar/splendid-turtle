@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Web Strategie: Im Internet gesehen werden!'
+    title: 'Web Strategie + Google Ads Studio: Im Internet gesehen werden!'
     content: >-
       Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google & YouTube
       - auf Wunsch auch Facebook Ads Kampagnen sowie Werbung auf Amazon -
