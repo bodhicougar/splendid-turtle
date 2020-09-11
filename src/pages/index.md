@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
       - label: Terminvereinbarung
-        url: lorem-ipsum
+        url: 'https://calendly.com/blackboxmd/ctanow'
         style: link
         icon_class: ''
         new_window: false
