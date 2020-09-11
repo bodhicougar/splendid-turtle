@@ -22,7 +22,7 @@ sections:
       - label: Checklisten
         url: lorem-ipsum
         style: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
         type: action
   - title: 'Wir stellen uns vor:'
