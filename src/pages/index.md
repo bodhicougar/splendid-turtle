@@ -26,6 +26,12 @@ sections:
         icon_class: ''
         new_window: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
     content: "<center>\n<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/Q17qYSaB8Lk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
