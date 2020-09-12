@@ -28,7 +28,7 @@ sections:
         new_window: true
         type: action
       - label: Katalog
-        url: lorem-ipsum
+        url: 'https://www.bbmediadesign.net/'
         style: button
         icon_class: ''
         new_window: true
