@@ -21,7 +21,7 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: Termin
+      - label: Termin buchen
         url: 'https://calendly.com/blackboxmd/ctanow'
         style: button
         icon_class: ''
