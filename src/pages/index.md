@@ -13,6 +13,7 @@ sections:
       - label: Kontaktaufnahme
         url: /contact
         style: button
+        new_window: true
       - label: Checklisten
         url: >-
           https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
