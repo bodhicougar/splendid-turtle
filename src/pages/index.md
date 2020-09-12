@@ -27,7 +27,7 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Katalog
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
