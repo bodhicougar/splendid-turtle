@@ -30,7 +30,7 @@ sections:
       - label: Katalog
         url: lorem-ipsum
         style: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: true
         type: action
   - title: 'Wir stellen uns vor:'
