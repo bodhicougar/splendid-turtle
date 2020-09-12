@@ -21,7 +21,7 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: Terminvereinba
+      - label: Terminv
         url: 'https://calendly.com/blackboxmd/ctanow'
         style: button
         icon_class: ''
