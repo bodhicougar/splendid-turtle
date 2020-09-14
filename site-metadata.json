@@ -26,7 +26,7 @@
             },
             {
                 "label": "Aktuell",
-                "url": "#latest-posts",
+                "url": "/blog",
                 "style": "link"
             },
             {
