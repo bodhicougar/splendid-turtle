@@ -23,7 +23,23 @@ module.exports = {
     },
     {
       resolve: `gatsby-remark-page-creator`,
-      options: {},
+      options: {
+        path: `${__dirname}/src/pages`,
+      },
+    },
+    `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Positioning by BlackBoxMediaDesign`,
+        short_name: `BlackBoxMD`,
+        description: `Positioning Solutions: From the Organization in the Cloud to Digital Marketing - counseling entities strategically.`,
+        display: `standalone`,
+        icon: `static/images/favicon.png`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#a37923`,
+      },
     },
     {
       resolve: `@stackbit/gatsby-plugin-menus`,
