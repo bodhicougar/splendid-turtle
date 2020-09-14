@@ -5,6 +5,20 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Positioning by BlackBoxMediaDesign`,
+        short_name: `BlackBoxMD`,
+        description: `Positioning Solutions: From the Organization in the Cloud to Digital Marketing - counseling entities strategically.`,
+        display: `standalone`,
+        icon: `static/images/favicon.png`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#a37923`,
+      },
+    },
+    `gatsby-plugin-offline`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
