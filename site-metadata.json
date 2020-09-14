@@ -38,7 +38,7 @@
             },
             {
                 "label": "Services",
-                "url": "lorem-ipsum",
+                "url": "/",
                 "style": "link",
                 "icon_class": "",
                 "new_window": false,
