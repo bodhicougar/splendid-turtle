@@ -2,7 +2,7 @@
 title: Leitfaden
 subtitle: >-
   Um eine Positionierung im Internet erzielen zu können, muß zuerst die
-  Organisation
+  IT-Organisation
 template: page
 ---
 
