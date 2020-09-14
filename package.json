@@ -1,7 +1,7 @@
 {
   "name": "stackbit-exto-theme",
   "description": "Stackbit Exto Theme",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
