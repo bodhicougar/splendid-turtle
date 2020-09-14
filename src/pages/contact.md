@@ -41,7 +41,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich bin zur Datenübermittlung dieses Formular meine Daten zur
+          Ich bin zur Datenübermittlung dieses Formulars meine Daten zur
           Kontaktaufnahme übermittelt.
     submit_label: Senden
 template: advanced
