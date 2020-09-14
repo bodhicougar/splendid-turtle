@@ -18,7 +18,6 @@ module.exports = {
         theme_color: `#a37923`,
       },
     },
-    `gatsby-plugin-offline`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
