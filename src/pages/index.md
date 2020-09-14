@@ -49,7 +49,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Was wir machen
-    subtitle: Marketing mit Google &
+    subtitle: Marketing mit Google
     col_number: two
     is_numbered: true
     grid_items:
