@@ -14,7 +14,7 @@ module.exports = {
         description: `Positioning Solutions: From the Organization in the Cloud to Digital Marketing - counseling entities strategically.`,
         display: `standalone`,
         icon: `static/images/favicon.png`,
-        start_url: `/`,
+        start_url: `https://`,
         background_color: `#ffffff`,
         theme_color: `#a37923`,
       },
