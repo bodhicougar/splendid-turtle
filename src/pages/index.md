@@ -42,7 +42,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Projekte
-    subtitle: An optional subtitle of the section
+    subtitle: 'Was letztlich '
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
