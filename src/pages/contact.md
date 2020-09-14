@@ -14,7 +14,7 @@ sections:
       - input_type: text
         name: name
         label: Vorname & Nachname
-        default_value: Ihr Name
+        default_value: Ihr Name oder Firma
         is_required: true
       - input_type: email
         name: email
