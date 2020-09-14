@@ -143,7 +143,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Das Aktuellste vom Blog
-    subtitle: 'Kreuz & quer durch '
+    subtitle: Kreuz & quer durch
     posts_number: 3
     col_number: three
     actions:
