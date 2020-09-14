@@ -42,7 +42,7 @@ sections:
         name: consent
         label: >-
           Ich bin einverstanden, daß dieses Formular meine Daten zur
-          Kotübermittelt.
+          Kontaktaufnahme übermittelt.
     submit_label: Senden
 template: advanced
 ---
