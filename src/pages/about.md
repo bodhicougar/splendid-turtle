@@ -1,6 +1,6 @@
 ---
 title: Über uns
-subtitle: 'Kurze Darstellung von '
+subtitle: Kurze Darstellung von 30+
 image: images/about.jpg
 template: page
 ---
