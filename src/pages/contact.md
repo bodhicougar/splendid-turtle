@@ -29,7 +29,7 @@ sections:
         options:
           - Google Ads
           - YouTube
-          - Other
+          - Facebook
           - lorem-ipsum
         is_required: true
       - input_type: textarea
