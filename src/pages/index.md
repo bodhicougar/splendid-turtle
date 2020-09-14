@@ -108,7 +108,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Service title
         content: >-
           ## Lorem ipsum
 
