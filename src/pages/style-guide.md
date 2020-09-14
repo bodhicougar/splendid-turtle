@@ -3,7 +3,7 @@ title: Leitfaden
 subtitle: >-
   Um eine wirklich gute Positionierung im Internet erzielen zu können, muß
   zuerst die IT-Organisation begutachtet werden, sowie eine Inventur der
-  digitalen Inhalte erfolgen.Darauf setzt die IT-Strategie auf & dann kommt die
+  digitalen Inhalte erfolgen. Darauf setzt die IT-Strategie auf & dann kommt die
   Umsetzung der Kampagnen.
 template: page
 ---
