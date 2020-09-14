@@ -30,7 +30,7 @@ sections:
           - Google Ads
           - YouTube
           - Facebook
-          - lorem-ipsum
+          - Sonstiges
         is_required: true
       - input_type: textarea
         name: message
