@@ -38,14 +38,6 @@ sections:
     content: "<center>\n<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/Q17qYSaB8Lk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
     actions: []
     type: section_hero
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: 'Projekte, Produkte, Dienstleistungen'
-    subtitle: Was letztlich so weitergegangen ist...
-    projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: Dienstleistungsübersicht
@@ -118,6 +110,14 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: 'Projekte, Produkte, Dienstleistungen'
+    subtitle: Was letztlich so weitergegangen ist...
+    projects_number: 2
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
     title: Referenzen
