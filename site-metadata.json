@@ -21,7 +21,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "/portfolio/",
+                "url": "#latest-projects",
                 "style": "link"
             },
             {
