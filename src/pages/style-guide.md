@@ -1,7 +1,7 @@
 ---
 title: Leitfaden
 subtitle: >-
-  Um eine Positionierung im Internet erzielen zu können, muß zu erst die
+  Um eine Positionierung im Internet erzielen zu können, muß zuerst die
   Organisation
 template: page
 ---
