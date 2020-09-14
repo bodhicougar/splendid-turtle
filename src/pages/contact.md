@@ -40,6 +40,6 @@ sections:
       - input_type: checkbox
         name: consent
         label: 'Ich bin einverstanden, daß dieses Formular meine Daten übermittelt.'
-    submit_label: Send Message
+    submit_label: ''
 template: advanced
 ---
