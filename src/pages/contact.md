@@ -27,7 +27,7 @@ sections:
         label: Subject
         default_value: Bitte auswählen
         options:
-          - Error on the site
+          - Google Ads
           - Sponsorship
           - Other
         is_required: true
