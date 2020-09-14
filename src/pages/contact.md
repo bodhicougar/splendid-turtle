@@ -41,7 +41,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich bin einverstanden, daß dieses Formular meine Daten zur
+          Ich bin einverstanden, dasß dieses Formular meine Daten zur
           Kontaktaufnahme übermittelt.
     submit_label: Senden
 template: advanced
