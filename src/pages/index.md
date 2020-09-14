@@ -72,7 +72,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: lorem-ipsum
+      - title: Service title
         content: >-
           ## Lorem ipsum
 
