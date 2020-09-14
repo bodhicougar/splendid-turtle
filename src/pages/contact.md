@@ -24,7 +24,7 @@ sections:
         options: []
       - input_type: select
         name: Betreff
-        label: Subject
+        label: Betre
         default_value: Bitte auswählen
         options:
           - Google Ads
