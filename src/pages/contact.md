@@ -40,7 +40,9 @@ sections:
         is_required: false
       - input_type: checkbox
         name: consent
-        label: 'Ich bin einverstanden, daß dieses Formular meine Daten übermittelt.'
+        label: >-
+          Ich bin einverstanden, daß dieses Formular meine Daten zur
+          Kotübermittelt.
     submit_label: Senden
 template: advanced
 ---
