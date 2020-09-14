@@ -1,6 +1,6 @@
 ---
 title: Leitfaden
-subtitle: Um eine Positionierung
+subtitle: 'Um eine Positionierung im Internet erzielen zu können, mu'
 template: page
 ---
 
