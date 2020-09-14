@@ -21,8 +21,7 @@ sections:
         label: E-Mail
         default_value: Ihre E-Mail Adresse
         is_required: true
-        options:
-          - lorem-ipsum
+        options: []
       - input_type: select
         name: subject
         label: Subject
