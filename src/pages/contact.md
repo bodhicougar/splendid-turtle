@@ -28,7 +28,7 @@ sections:
         default_value: Bitte auswählen
         options:
           - Google Ads
-          - Sponsorship
+          - YouTube
           - Other
         is_required: true
       - input_type: textarea
