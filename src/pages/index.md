@@ -43,7 +43,7 @@ sections:
     layout_style: mosaic
     title: 'Projekte, Produkte, Dienstleistungen'
     subtitle: Was letztlich so weitergegangen ist...
-    projects_number: 6
+    projects_number: 5
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
