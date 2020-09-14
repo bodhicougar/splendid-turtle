@@ -2,7 +2,7 @@
 title: Leitfaden
 subtitle: >-
   Um eine Positionierung im Internet erzielen zu können, muß zuerst die
-  IT-Organisation begutachtet werden. Darauf setzt die IT-Strategie auf und dann
+  IT-Organisation begutachtet werden. Darauf setzt die IT-Strategie auf & dann
   kommt die Umsetzung der Kampagnen.
 template: page
 ---
