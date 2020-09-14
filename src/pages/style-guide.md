@@ -1,6 +1,6 @@
 ---
 title: Leitfaden
-subtitle: 'Um eine '
+subtitle: Um eine Positionierung
 template: page
 ---
 
