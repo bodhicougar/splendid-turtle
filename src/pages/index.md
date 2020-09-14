@@ -48,9 +48,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: >-
-      Dienstleistungsübersicht <a href="#example">Example
-      headline</a>Dienstleistungsübersicht
+    title: '<a href="#example">Example headline</a>Dienstleistungsübersicht'
     subtitle: 'Marketing mit Google, YouTube & Facebook'
     col_number: two
     is_numbered: true
