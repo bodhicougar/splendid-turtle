@@ -12,6 +12,14 @@
                 "style": "link"
             },
             {
+                "label": "Services",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
@@ -35,14 +43,6 @@
                 "label": "Kontakt",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Services",
-                "url": "/",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "logo_img": "images/BBMD_Banner_478_105.jpg"
