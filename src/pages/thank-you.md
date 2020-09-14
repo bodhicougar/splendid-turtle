@@ -1,9 +1,9 @@
 ---
-title: Thank You!
+title: Dankeschön!
 image: images/thank-you.jpg
 template: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Vielen Dank für die Kontaktaufnahme. Wir werden uns umgehend bei Ihnen melden.
 
-**Have a great day!**
+**Einen schönen Tag noch!**
