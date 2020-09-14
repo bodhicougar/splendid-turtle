@@ -122,7 +122,7 @@ sections:
         type: grid_item
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: Referenzen
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
