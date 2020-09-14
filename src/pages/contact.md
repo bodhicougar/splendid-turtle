@@ -39,9 +39,7 @@ sections:
         is_required: false
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: 'Ich bin einverstanden, da'
     submit_label: Send Message
 template: advanced
 ---
