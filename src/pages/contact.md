@@ -23,7 +23,7 @@ sections:
         is_required: true
         options: []
       - input_type: select
-        name: subject
+        name: Betreff
         label: Subject
         default_value: Please select
         options:
