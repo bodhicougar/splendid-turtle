@@ -14,15 +14,15 @@ sections:
         url: /contact
         style: button
         new_window: false
-      - label: Checklisten
-        url: >-
-          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
+      - label: Katalog
+        url: 'https://www.bbmediadesign.net/'
         style: button
         icon_class: ''
         new_window: true
         type: action
-      - label: Katalog
-        url: 'https://www.bbmediadesign.net/'
+      - label: Checklisten
+        url: >-
+          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
         style: button
         icon_class: ''
         new_window: true
