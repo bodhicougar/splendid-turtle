@@ -10,7 +10,7 @@ sections:
       - auf Wunsch auch Facebook Ads Kampagnen - erreichen Sie Ihre Zielgruppe
       zukünftig schnell und kosteneffizient.
     actions:
-      - label: Kontaktaufnahme
+      - label: Kontakt
         url: /contact
         style: button
         new_window: false
