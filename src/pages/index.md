@@ -48,7 +48,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: 'Was wir können, machen'
+    title: Was wir mac
     subtitle: 'Marketing mit Google, YouTube & Facebook'
     col_number: two
     is_numbered: true
