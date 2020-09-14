@@ -123,7 +123,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Referenzen
-    subtitle: Kund
+    subtitle: Kunden
     col_number: three
     testimonials:
       - author: Sean Salazar
