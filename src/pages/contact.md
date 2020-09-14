@@ -35,7 +35,7 @@ sections:
       - input_type: textarea
         name: message
         label: Nachricht
-        default_value: Ihre Nachricht
+        default_value: Ihre Nachricht an uns
         is_required: false
       - input_type: checkbox
         name: consent
