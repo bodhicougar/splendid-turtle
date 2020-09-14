@@ -12,13 +12,21 @@
                 "style": "link"
             },
             {
+                "label": "Services",
+                "url": "/#services",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Portfolio",
-                "url": "/portfolio/",
+                "url": "/portfolio",
                 "style": "link"
             },
             {
                 "label": "Aktuell",
-                "url": "/blog/",
+                "url": "/blog",
                 "style": "link"
             },
             {

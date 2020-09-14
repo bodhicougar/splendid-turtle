@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 hide_title: false
 sections:
   - section_id: contact-form
@@ -7,37 +7,43 @@ sections:
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+
+      [info@blackboxmd.fyi](mailto:info@blackboxmd.fyi)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Vorname & Nachname
+        default_value: Ihr Name oder Firma
         is_required: true
       - input_type: email
         name: email
-        label: Email
-        default_value: Your email address
+        label: E-Mail
+        default_value: Ihre E-Mail Adresse
         is_required: true
+        options: []
       - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
+        name: Betreff
+        label: Betreff
+        default_value: Bitte auswählen
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Google Ads
+          - YouTube
+          - Facebook
+          - Sonstiges
+        is_required: true
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Nachricht
+        default_value: Ihre Nachricht an uns
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Ich bin zur Übermittlung meiner Eingaben in diesem Formulars zwecks
+          Kontaktaufnahme einverstanden.
+        is_required: true
+    submit_label: Senden
 template: advanced
 ---

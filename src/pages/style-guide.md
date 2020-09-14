@@ -1,9 +1,10 @@
 ---
 title: Leitfaden
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Um eine wirklich gute Positionierung im Internet erzielen zu können, muß
+  zuerst die IT-Organisation begutachtet werden, sowie eine Inventur der
+  digitalen Inhalte erfolgen. Darauf setzt die IT-Strategie auf & dann kommt die
+  Umsetzung der Kampagnen.
 template: page
 ---
 
