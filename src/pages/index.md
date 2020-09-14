@@ -20,15 +20,15 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: Checklisten
-        url: >-
-          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
+      - label: Termin
+        url: 'https://calendly.com/blackboxmd/ctanow'
         style: button
         icon_class: ''
         new_window: true
         type: action
-      - label: Termin
-        url: 'https://calendly.com/blackboxmd/ctanow'
+      - label: Checklisten
+        url: >-
+          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
         style: button
         icon_class: ''
         new_window: true
