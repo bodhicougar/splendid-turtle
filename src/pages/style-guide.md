@@ -3,7 +3,7 @@ title: Leitfaden
 subtitle: >-
   Um eine Positionierung im Internet erzielen zu können, muß zuerst die
   IT-Organisation begutachtet werden. Darauf setzt die IT-Strategie auf und dann
-  einigt 
+  kommt die Umsetzung.
 template: page
 ---
 
