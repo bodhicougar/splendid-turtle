@@ -42,7 +42,7 @@ sections:
         name: consent
         label: >-
           Ich bin zur Datenübermittlung meiner dieses Formulars zwecks
-          Kontaktaufnahmemeine Daten zur Kontaktaufnahme übermittelt.Date
+          Kontaktaufnahmemeine Daten zur Kontaktaufnahme übermittelt
     submit_label: Senden
 template: advanced
 ---
