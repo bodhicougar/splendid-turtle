@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-subtitle: 'Protokolle '
+subtitle: Protokolle & Datenschutz
 excerpt: lorem-ipsum
 template: page
 ---
