@@ -1,6 +1,6 @@
 ---
 title: DSGVO
-subtitle: lorem-ipsum
+subtitle: Rechtsgrundlage der Verarbeitung Art. 6 I lit. a DS-GVO
 excerpt: lorem-ipsum
 template: page
 ---
