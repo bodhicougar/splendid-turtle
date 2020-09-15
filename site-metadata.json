@@ -68,7 +68,7 @@
                 "label": "Datenschutz.",
                 "url": "/datenschutz",
                 "style": "link",
-                "icon_class": "l",
+                "icon_class": "",
                 "new_window": false,
                 "type": "action"
             },
