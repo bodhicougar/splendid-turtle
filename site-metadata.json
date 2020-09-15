@@ -58,7 +58,7 @@
             },
             {
                 "label": "DSGVO",
-                "url": "lorem-ipsum",
+                "url": "/dsgvo",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
