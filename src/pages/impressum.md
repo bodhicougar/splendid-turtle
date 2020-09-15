@@ -1,6 +1,6 @@
 ---
 title: Impressum
-subtitle: ABOUT. ÜBER MICH. SITE NOTICE.
+subtitle: AboutBOUT. ÜBER MICH. SITE NOTICE.
 excerpt: lorem-ipsum
 template: page
 ---
