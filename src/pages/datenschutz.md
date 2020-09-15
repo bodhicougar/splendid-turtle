@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-subtitle: lorem-ipsum
+subtitle: P
 excerpt: lorem-ipsum
 template: page
 ---
