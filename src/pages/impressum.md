@@ -1,7 +1,7 @@
 ---
 title: Impressum
 subtitle: About. Über mich. Site notice.
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
