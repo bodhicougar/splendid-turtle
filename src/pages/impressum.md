@@ -21,7 +21,8 @@ Estonia
 
 digitalmarketing@blackboxmd.fyi, Legalese 2020.
 
-Exkurs Positionierung = Was deine Dienstleistung und  / oder Produkt leistet + für wen + und WARUM
+Exkurs Positionierung: 
+= Was deine Dienstleistung und  / oder Produkt leistet + für wen + und WARUM
 
 * Positionierung macht dein Unternehmen einzigartig
 * Positionierung macht deine Lösung wertvoll
