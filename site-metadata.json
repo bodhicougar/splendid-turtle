@@ -59,12 +59,6 @@
                 "type": "action"
             },
             {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "DSGVO.",
                 "url": "/dsgvo",
                 "style": "link",
@@ -79,6 +73,12 @@
                 "icon_class": "",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com",
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_social": true,
