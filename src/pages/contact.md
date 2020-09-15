@@ -4,11 +4,15 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
+    content: >
+      Servus! Vielen Dank für Ihr Interesse in unsere Zusammenarbeit. Bitte das
+      untenstehende Formular ausfüllen oder senden Sie uns einfach
+      untenstehendes Formular ausgefüllt zu, oder benützen diesen Link - 
+      [info@blackboxmd.fyi](mailto:info@blackboxmd.fyi)    - um uns ein E-Mail
+      zu schicken.
 
-      [info@blackboxmd.fyi](mailto:info@blackboxmd.fyi)
+
+      Selbstverständlich gilt die DSGVO & die Datenschutzerklärung.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -41,7 +45,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich bin zur Übermittlung meiner Eingaben in diesem Formulars zwecks
+          Ich bin zur Übermittlung meiner Eingaben in diesem Formular zwecks
           Kontaktaufnahme einverstanden.
         is_required: true
     submit_label: Senden

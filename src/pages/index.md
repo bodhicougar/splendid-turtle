@@ -142,8 +142,8 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: Das Aktuellste vom Blog
+    subtitle: Kreuz & quer durch die Welt des digitalen Marketing
     posts_number: 3
     col_number: three
     actions:
