@@ -51,14 +51,6 @@
         "content": "&copy; BlackBoxMediaDesign 2020. All rights reserved.",
         "links": [
             {
-                "label": "Datenschutz.",
-                "url": "/datenschutz",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "type": "action"
-            },
-            {
                 "label": "DSGVO.",
                 "url": "/dsgvo",
                 "style": "link",
@@ -69,6 +61,14 @@
             {
                 "label": "Impressum.",
                 "url": "/impressum",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "Datenschutz.",
+                "url": "/datenschutz",
                 "style": "link",
                 "icon_class": "",
                 "new_window": false,
