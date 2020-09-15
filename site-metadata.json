@@ -51,6 +51,14 @@
         "content": "&copy; BlackBoxMediaDesign 2020. All rights reserved.",
         "links": [
             {
+                "label": "Datenschutz.",
+                "url": "/datenschutz",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "DSGVO.",
                 "url": "/dsgvo",
                 "style": "link",
@@ -71,14 +79,6 @@
                 "url": "https://www.stackbit.com",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "Datenschutz.",
-                "url": "/datenschutz",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "has_social": true,
