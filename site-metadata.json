@@ -59,6 +59,14 @@
                 "type": "action"
             },
             {
+                "label": "Impressum.",
+                "url": "/impressum",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Made with Stackbit.",
                 "url": "https://www.stackbit.com",
                 "style": "link",
@@ -67,14 +75,6 @@
             {
                 "label": "Datenschutz.",
                 "url": "/datenschutz",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "Impressum.",
-                "url": "/impressum",
                 "style": "link",
                 "icon_class": "",
                 "new_window": false,
