@@ -14,12 +14,10 @@ Registry code 14648845
 Management board member is Walter Achammer, personal identification code 36407270100.
 
 Sepapaja 6
-
 Tallinn 15551
+Estonia
 
-Estonia 
-
-digitalmarketing@blackboxmd.fyi, Legalese 2020.
+[digitalmarketing@blackboxmd.fyi](mailto:digitalmarketing@blackboxmd.fyi), [Legalese 2020](https://legal-terms.jimdofree.com/).
 
 Exkurs Positionierung: 
 = Was deine Dienstleistung und  / oder Produkt leistet + für wen + und WARUM
