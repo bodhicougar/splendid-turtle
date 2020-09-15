@@ -1,7 +1,7 @@
 ---
 title: Datenschutzerklärung
 subtitle: Protokolle & Datenschutz
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 Webserver - Protokolle
