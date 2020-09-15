@@ -5,8 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Servus! Vielen Dank für Ihr Interesse in unsere Zusammenarbeit. Bitte das
-      untenstehende Formular ausfüllen oder senden Sie uns einfach
+      Servus! Vielen Dank für Ihr Interesse an unseren Services.
+
+      Bitte das untenstehende Formular ausfüllen oder senden Sie uns einfach
       untenstehendes Formular ausgefüllt zu, oder benützen diesen Link - 
       [info@blackboxmd.fyi](mailto:info@blackboxmd.fyi)    - um uns ein E-Mail
       zu schicken.
