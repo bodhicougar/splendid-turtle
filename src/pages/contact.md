@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >
+    content: >-
       Servus! Vielen Dank für Ihr Interesse in unsere Zusammenarbeit. Bitte das
       untenstehende Formular ausfüllen oder senden Sie uns einfach
       untenstehendes Formular ausgefüllt zu, oder benützen diesen Link - 
@@ -12,7 +12,8 @@ sections:
       zu schicken.
 
 
-      Selbstverständlich gilt die DSGVO & die Datenschutzerklärung.
+      Selbstverständlich gilt die [DSGVO](/dsgvo) & die
+      [Datenschutzerklärung](/datenschutz).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
