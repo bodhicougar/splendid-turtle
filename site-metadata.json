@@ -68,7 +68,7 @@
                 "label": "Datenschutz.",
                 "url": "/datenschutz",
                 "style": "link",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "l",
                 "new_window": false,
                 "type": "action"
             },
