@@ -28,7 +28,7 @@ sections:
         type: action
       - label: Checklisten
         url: >-
-          https://drive.google.com/drive/folders/1YKsHhZ1EvmcYk3ueI9RkuRiBhEc2Ze_8?usp=sharing
+          https://u.pcloud.link/publink/show?code=XZukQ5XZ951VGOATHlFPjMNqWmfKA5TBfj3k
         style: button
         icon_class: ''
         new_window: true
