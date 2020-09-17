@@ -4,7 +4,7 @@ subtitle: About. Über mich. Site notice.
 excerpt: ''
 template: page
 ---
-Positioning Solutions
+Positioning Solutions:
 From Organization in the Cloud to Digital Marketing - counseling entities strategically.
 
 Firmensitz:
