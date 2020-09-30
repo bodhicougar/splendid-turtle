@@ -45,16 +45,25 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Google Marketing
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
+          Die neue Google Marketing Platform ist da – eine Werbe- und
+          Analyseplattform für intelligente Marketingdaten und exakte
+          Ergebnisse.
+
+          Sie können Ihre Google Ads-Konten in der Google Marketing Platform
+          verwalten von uns verwalten lassen.
+
+          Analytics, Data Studio, Ads & Tag Manager: Alles zentral zugänglich.
+      - title: YouTube Werbung
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Mit beliebten Inhalten auf sich aufmerksam machen
+
+
+          Mit YouTube-Anzeigen erreichen Sie potenzielle Kunden und können diese
+          genau dann zum Handeln bewegen, wenn sie YouTube Videos aufrufen oder
+          suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
+          Interesse stößt.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
@@ -147,7 +156,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Blog anzeigen
         url: blog
         style: button
 template: advanced
