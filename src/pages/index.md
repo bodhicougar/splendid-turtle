@@ -50,7 +50,7 @@ sections:
           Die neue Google Marketing Platform ist da – eine Werbe- und
           Analyseplattform für intelligente Marketingdaten und exakte
           Ergebnisse.
-      - title: Service Title
+      - title: YouTube Werbung
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
