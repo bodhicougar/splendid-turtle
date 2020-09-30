@@ -52,9 +52,13 @@ sections:
           Ergebnisse.
       - title: YouTube Werbung
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Mit beliebten Inhalten auf sich aufmerksam machen
+
+
+          Mit YouTube-Anzeigen erreichen Sie potenzielle Kunden und können diese
+          genau dann zum Handeln bewegen, wenn sie YouTube Videos aufrufen oder
+          suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
+          Interesse stößt.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
