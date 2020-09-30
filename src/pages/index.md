@@ -50,6 +50,11 @@ sections:
           Die neue Google Marketing Platform ist da – eine Werbe- und
           Analyseplattform für intelligente Marketingdaten und exakte
           Ergebnisse.
+
+          Sie können Ihre Google Ads-Konten in der Google Marketing Platform
+          verwalten von uns verwalten lassen.
+
+          Analytics, Data Studio, Ads & Tag Manager: Alles zentral zugänglich.
       - title: YouTube Werbung
         content: >-
           Mit beliebten Inhalten auf sich aufmerksam machen
