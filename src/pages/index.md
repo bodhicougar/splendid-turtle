@@ -47,9 +47,9 @@ sections:
     grid_items:
       - title: Google Marketing Platform
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Die neue Google Marketing Platform ist da – eine Werbe- und
+          Analyseplattform für intelligente Marketingdaten und exakte
+          Ergebnisse.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
