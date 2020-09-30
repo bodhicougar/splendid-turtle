@@ -45,7 +45,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Google Marketin
+      - title: Google Marketing
         content: >-
           Die neue Google Marketing Platform ist da – eine Werbe- und
           Analyseplattform für intelligente Marketingdaten und exakte
