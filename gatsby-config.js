@@ -99,7 +99,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-hotjar-tracking`,
+      resolve: `gatsby-plugin-hotjar`,
       options: {
         includeInDevelopment: false,
         id: 2018853,
