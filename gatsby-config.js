@@ -99,6 +99,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-hotjar-tracking`,
+      options: {
+        includeInDevelopment: false,
+        id: 2018853,
+        sv: 6
+      },
+    },
+    {
       resolve: `@stackbit/gatsby-plugin-menus`,
       options: {
         sourceUrlPath: `fields.url`,
