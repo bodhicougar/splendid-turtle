@@ -64,7 +64,7 @@ sections:
           genau dann zum Handeln bewegen, wenn sie YouTube Videos aufrufen oder
           suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
           Interesse stößt.
-      - title: Service Title
+      - title: Analyse
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
