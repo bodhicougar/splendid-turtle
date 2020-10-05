@@ -64,6 +64,8 @@ sections:
           genau dann zum Handeln bewegen, wenn sie YouTube Videos aufrufen oder
           suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
           Interesse stößt.
+
+          Und: YouTube ist die zweitgrösste Suchmaschine der Welt.
       - title: Analyse
         content: >-
           Google Analytics ermöglicht Ihnen, durch die Einbindung eines
