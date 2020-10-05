@@ -65,7 +65,6 @@ sections:
           suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
           Interesse stößt.
 
-
           Und: YouTube ist die zweitgrösste Suchmaschine der Welt.
       - title: Analyse
         content: >-
