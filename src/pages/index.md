@@ -54,7 +54,7 @@ sections:
           Sie können Ihre Google Ads-Konten in der Google Marketing Platform
           verwalten von uns verwalten lassen.
 
-          Analytics, Data Studio, Ads & Tag Manager: Alles zentral zugänglich.
+          Analytics, Data Studio,  Ads & Tag Manager: Alles zentral zugänglich.
       - title: YouTube Werbung
         content: >-
           Mit beliebten Inhalten auf sich aufmerksam machen
