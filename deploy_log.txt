@@ -1,0 +1,590 @@
+9:26:53 PM: Build ready to start
+9:26:55 PM: build-image version: b0258b965567defc4a2d7e2f2dec2e00c8f73ad6
+9:26:55 PM: build-image tag: v3.4.1
+9:26:55 PM: buildbot version: 8c957a6d09a03023cea4239847cc73a9cb64eeb7
+9:26:55 PM: Fetching cached dependencies
+9:26:55 PM: Starting to download cache of 193.9MB
+9:26:58 PM: Finished downloading cache in 3.42152494s
+9:26:58 PM: Starting to extract cache
+9:27:08 PM: Finished extracting cache in 9.578027253s
+9:27:08 PM: Finished fetching cache in 13.176749857s
+9:27:08 PM: Starting to prepare the repo for build
+9:27:09 PM: Preparing Git Reference refs/heads/master
+9:27:10 PM: Different publish path detected, going to use the one specified in the Netlify configuration file: 'public' versus '/' in the Netlify UI
+9:27:10 PM: Different build command detected, going to use the one specified in the Netlify configuration file: './stackbit-build.sh' versus '' in the Netlify UI
+9:27:11 PM: Starting build script
+9:27:11 PM: Installing dependencies
+9:27:11 PM: Python version set to 2.7
+9:27:11 PM: Started restoring cached node version
+9:27:14 PM: Finished restoring cached node version
+9:27:15 PM: v12.18.0 is already installed.
+9:27:15 PM: Now using node v12.18.0 (npm v6.14.4)
+9:27:15 PM: Started restoring cached build plugins
+9:27:15 PM: Finished restoring cached build plugins
+9:27:15 PM: Attempting ruby version 2.7.1, read from environment
+9:27:17 PM: Using ruby version 2.7.1
+9:27:17 PM: Using PHP version 5.6
+9:27:17 PM: 5.2 is already installed.
+9:27:17 PM: Using Swift version 5.2
+9:27:17 PM: Started restoring cached node modules
+9:27:17 PM: Finished restoring cached node modules
+9:27:18 PM: Installing NPM modules using NPM version 6.14.4
+9:27:48 PM: npm WARN rm not removing /opt/build/repo/node_modules/.bin/gatsby as it wasn't installed by /opt/build/repo/node_modules/gatsby
+9:27:48 PM: > core-js@3.6.5 postinstall /opt/build/repo/node_modules/gatsby/node_modules/core-js
+9:27:48 PM: > node -e "try{require('./postinstall')}catch(e){}"
+9:27:48 PM: > gatsby-telemetry@1.3.33 postinstall /opt/build/repo/node_modules/gatsby-telemetry
+9:27:48 PM: > node src/postinstall.js || true
+9:27:48 PM: > gatsby-cli@2.12.96 postinstall /opt/build/repo/node_modules/gatsby-cli
+9:27:48 PM: > node scripts/postinstall.js
+9:27:48 PM: > gatsby@2.24.58 postinstall /opt/build/repo/node_modules/gatsby
+9:27:48 PM: > node scripts/postinstall.js
+9:27:51 PM: npm WARN acorn-dynamic-import@4.0.0 requires a peer of acorn@^6.0.0 but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN gatsby-interface@0.0.166 requires a peer of gatsby@2.6.0 but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN gatsby-interface@0.0.166 requires a peer of react@16.8.1 but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN gatsby-interface@0.0.166 requires a peer of react-dom@16.8.1 but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN theme-ui@0.2.52 requires a peer of @mdx-js/react@^1.0.0 but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+9:27:51 PM: npm WARN stackbit-exto-theme@0.1.2 No repository field.
+9:27:51 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/webpack-dev-server/node_modules/fsevents):
+9:27:51 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+9:27:51 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/watchpack-chokidar2/node_modules/fsevents):
+9:27:51 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+9:27:51 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules/fsevents):
+9:27:51 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+9:27:51 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/babel-plugin-add-module-exports/node_modules/fsevents):
+9:27:51 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+9:27:51 PM: added 135 packages from 95 contributors, removed 293 packages, updated 270 packages and audited 2716 packages in 32.753s
+9:27:53 PM: 183 packages are looking for funding
+9:27:53 PM:   run `npm fund` for details
+9:27:53 PM: found 3 low severity vulnerabilities
+9:27:53 PM:   run `npm audit fix` to fix them, or `npm audit` for details
+9:27:54 PM: NPM modules installed
+9:27:54 PM: Started restoring cached go cache
+9:27:54 PM: Finished restoring cached go cache
+9:27:54 PM: go version go1.14.4 linux/amd64
+9:27:54 PM: go version go1.14.4 linux/amd64
+9:27:54 PM: Installing missing commands
+9:27:54 PM: Verify run directory
+9:27:55 PM: ​
+9:27:55 PM: ┌─────────────────────────────┐
+9:27:55 PM: │        Netlify Build        │
+9:27:55 PM: └─────────────────────────────┘
+9:27:55 PM: ​
+9:27:55 PM: ❯ Version
+9:27:55 PM:   @netlify/build 3.3.5
+9:27:55 PM: ​
+9:27:55 PM: ❯ Flags
+9:27:55 PM:   deployId: 5f5fc3fd2de7424b8dd94b22
+9:27:55 PM:   mode: buildbot
+9:27:55 PM: ​
+9:27:55 PM: ❯ Current directory
+9:27:55 PM:   /opt/build/repo
+9:27:55 PM: ​
+9:27:55 PM: ❯ Config file
+9:27:55 PM:   /opt/build/repo/netlify.toml
+9:27:55 PM: ​
+9:27:55 PM: ❯ Context
+9:27:55 PM:   production
+9:27:56 PM: ​
+9:27:56 PM: ❯ Loading plugins
+9:27:56 PM:    - netlify-plugin-image-optim@0.3.0 from Netlify app
+9:27:56 PM:    - netlify-deployment-hours-plugin@0.0.10 from Netlify app
+9:27:56 PM:    - netlify-plugin-inline-critical-css@1.1.3 from Netlify app
+9:27:56 PM:    - @netlify/plugin-lighthouse@1.4.0 from Netlify app
+9:27:56 PM:    - netlify-plugin-minify-html@0.2.3 from Netlify app
+9:27:56 PM:    - @netlify/plugin-sitemap@0.3.4 from Netlify app
+9:27:56 PM:    - netlify-plugin-submit-sitemap@0.2.2 from Netlify app
+9:27:56 PM:    - netlify-plugin-gatsby-cache@0.3.0 from Netlify app
+9:28:08 PM: ​
+9:28:08 PM: ┌────────────────────────────────────────────────────────────┐
+9:28:08 PM: │ 1. onPreBuild command from netlify-deployment-hours-plugin │
+9:28:08 PM: └────────────────────────────────────────────────────────────┘
+9:28:08 PM: ​
+9:28:08 PM: Using 'expression=* * * * *' (default value)
+9:28:08 PM: Using 'timezone=America/Toronto' (default value)
+9:28:08 PM: Current time: 'Mon Sep 14 2020 19:28:08 GMT+0000 (Coordinated Universal Time)'. Expression: '* * * * *'. Timezone: 'America/Toronto'.
+9:28:08 PM: ​
+9:28:08 PM: (netlify-deployment-hours-plugin onPreBuild completed in 102ms)
+9:28:08 PM: ​
+9:28:08 PM: ┌────────────────────────────────────────────────────────┐
+9:28:08 PM: │ 2. onPreBuild command from netlify-plugin-gatsby-cache │
+9:28:08 PM: └────────────────────────────────────────────────────────┘
+9:28:08 PM: ​
+9:28:09 PM: Found a Gatsby cache. We’re about to go FAST. ⚡️
+9:28:09 PM: ​
+9:28:09 PM: (netlify-plugin-gatsby-cache onPreBuild completed in 617ms)
+9:28:09 PM: ​
+9:28:09 PM: ┌────────────────────────────────────┐
+9:28:09 PM: │ 3. build.command from netlify.toml │
+9:28:09 PM: └────────────────────────────────────┘
+9:28:09 PM: ​
+9:28:09 PM: $ ./stackbit-build.sh
+9:28:09 PM: curl -s -X POST https://api.stackbit.com/project/5f304b5f942cf9001d499d41/webhook/build/pull > /dev/null
+9:28:09 PM: if [[ -z "${STACKBIT_API_KEY}" ]]; then
+9:28:09 PM:     echo "WARNING: No STACKBIT_API_KEY environment variable set, skipping stackbit-pull"
+9:28:09 PM: else
+9:28:09 PM:     npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5f304b5f942cf9001d499d41
+9:28:09 PM: fi
+9:28:12 PM: npx: installed 11 in 2.234s
+9:28:12 PM: fetching data for project from https://api.stackbit.com/pull/5f304b5f942cf9001d499d41
+9:28:12 PM: curl -s -X POST https://api.stackbit.com/project/5f304b5f942cf9001d499d41/webhook/build/ssgbuild > /dev/null
+9:28:12 PM: gatsby build
+9:28:16 PM: success open and validate gatsby-configs - 0.043s
+9:28:17 PM: success load plugins - 1.816s
+9:28:17 PM: success onPreInit - 0.035s
+9:28:17 PM: success delete html and css files from previous builds - 0.014s
+9:28:17 PM: info One or more of your plugins have changed since the last time you ran Gatsby. As
+9:28:17 PM: a precaution, we're deleting your site's cache to ensure there's no stale data.success initialize cache - 0.018s
+9:28:17 PM: success copy gatsby files - 0.033s
+9:28:17 PM: success onPreBootstrap - 0.015s
+9:28:18 PM: success createSchemaCustomization - 0.011s
+9:28:18 PM: info [gatsby-source-data] setup file watcher and create site data
+9:28:18 PM: info [gatsby-source-data] create site data from files, updated path: null
+9:28:18 PM: success Checking for changed pages - 0.000s
+9:28:18 PM: success source and transform nodes - 0.335s
+9:28:18 PM: success building schema - 0.424s
+9:28:19 PM: success createPages - 0.356s
+9:28:19 PM: success Checking for changed pages - 0.000s
+9:28:19 PM: success createPagesStatefully - 0.068s
+9:28:19 PM: success update schema - 0.150s
+9:28:19 PM: success onPreExtractQueries - 0.004s
+9:28:21 PM: success extract queries from components - 2.065s
+9:28:21 PM: success write out redirect data - 0.010s
+9:28:21 PM: warning The icon(static/images/favicon.png) you provided to 'gatsby-plugin-manifest' is not square.
+9:28:21 PM: The icons we generate will be square and for the best results we recommend you provide a square icon.
+9:28:21 PM: success Build manifest and related icons - 0.278s
+9:28:21 PM: success onPostBootstrap - 0.314s
+9:28:21 PM: info bootstrap finished - 8.886s
+9:28:21 PM: success run page queries - 0.157s - 38/38 242.61/s
+9:28:21 PM: success write out requires - 0.007s
+9:28:52 PM: success Building production JavaScript and CSS bundles - 30.472s
+9:28:52 PM: success Rewriting compilation hashes - 0.002s
+9:28:58 PM: success Building static HTML for pages - 5.652s - 38/38 6.72/s
+9:28:58 PM: info Generated public/sw.js, which will precache 9 files, totaling 276226 bytes.
+9:28:58 PM: The following pages will be precached:
+9:28:58 PM: /offline-plugin-app-shell-fallback/index.html
+9:28:58 PM: success onPostBuild - 0.088s
+9:28:58 PM: info Done building in 45.819597379 sec
+9:28:59 PM: curl -s -X POST https://api.stackbit.com/project/5f304b5f942cf9001d499d41/webhook/build/publish > /dev/null
+9:28:59 PM: ​
+9:28:59 PM: (build.command completed in 49.9s)
+9:28:59 PM: ​
+9:28:59 PM: ┌────────────────────────────────────────────────────────┐
+9:28:59 PM: │ 4. onPostBuild command from netlify-plugin-image-optim │
+9:28:59 PM: └────────────────────────────────────────────────────────┘
+9:28:59 PM: ​
+9:29:08 PM: │ File                               │ Before    │ After     │ Reduction │
+9:29:08 PM: ├────────────────────────────────────┼───────────┼───────────┼───────────┤
+9:29:08 PM: │ /favicon-32x32.png                 │ 1.6 KB    │ 1.47 KB   │ 132 B     │
+9:29:08 PM: │ /icons/icon-144x144.png            │ 17.4 KB   │ 7.82 KB   │ 9.58 KB   │
+9:29:08 PM: │ /icons/icon-192x192.png            │ 29.14 KB  │ 12.46 KB  │ 16.67 KB  │
+9:29:08 PM: │ /icons/icon-256x256.png            │ 48.97 KB  │ 19.69 KB  │ 29.28 KB  │
+9:29:08 PM: │ /icons/icon-384x384.png            │ 97.93 KB  │ 36.29 KB  │ 61.64 KB  │
+9:29:08 PM: │ /icons/icon-48x48.png              │ 2.73 KB   │ 1.95 KB   │ 799 B     │
+9:29:08 PM: │ /icons/icon-512x512.png            │ 160.41 KB │ 55.51 KB  │ 104.9 KB  │
+9:29:08 PM: │ /icons/icon-72x72.png              │ 5.21 KB   │ 2.93 KB   │ 2.28 KB   │
+9:29:08 PM: │ /icons/icon-96x96.png              │ 8.51 KB   │ 4.32 KB   │ 4.19 KB   │
+9:29:08 PM: │ /images/1.jpg                      │ 67.59 KB  │ 67.59 KB  │ 0 B       │
+9:29:08 PM: │ /images/10.jpg                     │ 98.87 KB  │ 98.87 KB  │ 0 B       │
+9:29:08 PM: │ /images/11.jpg                     │ 307.29 KB │ 307.29 KB │ 0 B       │
+9:29:08 PM: │ /images/12.jpg                     │ 83.12 KB  │ 83.12 KB  │ 0 B       │
+9:29:08 PM: │ /images/13.jpg                     │ 138.44 KB │ 138.44 KB │ 0 B       │
+9:29:08 PM: │ /images/1_thumb.jpg                │ 104.73 KB │ 104.73 KB │ 0 B       │
+9:29:08 PM: │ /images/2.jpg                      │ 150.88 KB │ 150.88 KB │ 0 B       │
+9:29:08 PM: │ /images/2_thumb.jpg                │ 81.23 KB  │ 81.23 KB  │ 0 B       │
+9:29:08 PM: │ /images/3.jpg                      │ 80.79 KB  │ 80.79 KB  │ 0 B       │
+9:29:08 PM: │ /images/3_thumb.jpg                │ 70.21 KB  │ 70.21 KB  │ 0 B       │
+9:29:08 PM: │ /images/4.jpg                      │ 112.33 KB │ 112.33 KB │ 0 B       │
+9:29:08 PM: │ /images/4_thumb.jpg                │ 91.14 KB  │ 91.14 KB  │ 0 B       │
+9:29:08 PM: │ /images/5.jpg                      │ 60.29 KB  │ 60.29 KB  │ 0 B       │
+9:29:08 PM: │ /images/5_thumb.jpg                │ 43.93 KB  │ 43.93 KB  │ 0 B       │
+9:29:08 PM: │ /images/6.jpg                      │ 37.18 KB  │ 37.18 KB  │ 0 B       │
+9:29:08 PM: │ /images/6_thumb.jpg                │ 31.6 KB   │ 31.6 KB   │ 0 B       │
+9:29:08 PM: │ /images/7.jpg                      │ 92.45 KB  │ 92.45 KB  │ 0 B       │
+9:29:08 PM: │ /images/7_thumb.jpg                │ 83.21 KB  │ 83.21 KB  │ 0 B       │
+9:29:08 PM: │ /images/8.jpg                      │ 332.33 KB │ 332.33 KB │ 0 B       │
+9:29:08 PM: │ /images/9.jpg                      │ 101.76 KB │ 101.76 KB │ 0 B       │
+9:29:08 PM: │ /images/BBMD_Banner_478_105.jpg    │ 21.05 KB  │ 21.05 KB  │ 0 B       │
+9:29:08 PM: │ /images/BBMD_Logo.jpg              │ 20.64 KB  │ 20.64 KB  │ 0 B       │
+9:29:08 PM: │ /images/about.jpg                  │ 194.3 KB  │ 194.3 KB  │ 0 B       │
+9:29:08 PM: │ /images/aubrey_hoover.jpg          │ 7.86 KB   │ 7.86 KB   │ 0 B       │
+9:29:08 PM: │ /images/avatar.png                 │ 41.25 KB  │ 22.64 KB  │ 18.62 KB  │
+9:29:08 PM: │ /images/deegan_wallace.jpg         │ 8.76 KB   │ 8.76 KB   │ 0 B       │
+9:29:08 PM: │ /images/favicon.png                │ 38.34 KB  │ 20.73 KB  │ 17.61 KB  │
+9:29:08 PM: │ /images/icon.jpeg                  │ 8.65 KB   │ 8.65 KB   │ 0 B       │
+9:29:08 PM: │ /images/logo.png                   │ 41.25 KB  │ 22.64 KB  │ 18.62 KB  │
+9:29:08 PM: │ /images/sean_salazar.jpg           │ 7.6 KB    │ 7.6 KB    │ 0 B       │
+9:29:08 PM: │ /images/thank-you.jpg              │ 147.8 KB  │ 147.8 KB  │ 0 B       │
+9:29:08 PM: │ /assets/webfonts/fa-brands-400.svg │ 675.65 KB │ 429.6 KB  │ 246.04 KB │
+9:29:08 PM: ┌────────────────────────────────────────┐
+9:29:08 PM: │   Images optimized - 530.34 KB saved   │
+9:29:08 PM: └────────────────────────────────────────┘
+9:29:08 PM: ​
+9:29:08 PM: (netlify-plugin-image-optim onPostBuild completed in 9.2s)
+9:29:08 PM: ​
+9:29:08 PM: ┌────────────────────────────────────────────────────────────────┐
+9:29:08 PM: │ 5. onPostBuild command from netlify-plugin-inline-critical-css │
+9:29:08 PM: └────────────────────────────────────────────────────────────────┘
+9:29:08 PM: ​
+9:30:12 PM: Critical CSS successfully inlined!
+9:30:12 PM: ​
+9:30:12 PM: (netlify-plugin-inline-critical-css onPostBuild completed in 1m 3.6s)
+9:30:12 PM: ​
+9:30:12 PM: ┌─────────────────────────────────────────────────────┐
+9:30:12 PM: │ 6. onPostBuild command from @netlify/plugin-sitemap │
+9:30:12 PM: └─────────────────────────────────────────────────────┘
+9:30:12 PM: ​
+9:30:12 PM: Creating sitemap from files...
+9:30:12 PM: Sitemap Built! sitemap.xml
+9:30:12 PM: ​
+9:30:12 PM: (@netlify/plugin-sitemap onPostBuild completed in 113ms)
+9:30:12 PM: ​
+9:30:12 PM: ┌─────────────────────────────────────────────────────────┐
+9:30:12 PM: │ 7. onPostBuild command from netlify-plugin-gatsby-cache │
+9:30:12 PM: └─────────────────────────────────────────────────────────┘
+9:30:12 PM: ​
+9:30:13 PM: Stored the Gatsby cache to speed up future builds.
+9:30:13 PM: ​
+9:30:13 PM: (netlify-plugin-gatsby-cache onPostBuild completed in 640ms)
+9:30:13 PM: ​
+9:30:13 PM: ┌──────────────────────────────────────────────────────┐
+9:30:13 PM: │ 8. onSuccess command from @netlify/plugin-lighthouse │
+9:30:13 PM: └──────────────────────────────────────────────────────┘
+9:30:13 PM: ​
+9:30:13 PM: Serving and scanning site from directory public
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT ChromeLauncher Waiting for browser.
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT ChromeLauncher Waiting for browser...
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT ChromeLauncher Waiting for browser.....
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT ChromeLauncher Waiting for browser.....✓
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT config:warn IFrameElements gatherer requested, however no audit requires it.
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT config:warn FormElements gatherer requested, however no audit requires it.
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT status Connecting to browser
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT status Resetting state with about:blank
+9:30:13 PM: Mon, 14 Sep 2020 19:30:13 GMT status Benchmarking machine
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Initializing…
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Running defaultPass pass CSSUsage, JsUsage, ViewportDimensions, RuntimeExceptions, ConsoleMessages, AnchorElements, ImageElements, LinkElements, MetaElements, ScriptElements, IFrameElements, FormElements, MainDocumentContent, GlobalListeners, AppCacheManifest, Doctype, DOMStats, OptimizedImages, PasswordInputsWithPreventedPaste, ResponseCompression, TagsBlockingFirstPaint, FontSize, EmbeddedContent, RobotsTxt, TapTargets, Accessibility, TraceElements, InspectorIssues, SourceMaps
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Resetting state with about:blank
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Setting up network for the pass trace
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Cleaning browser cache
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Beginning devtoolsLog and trace
+9:30:14 PM: Mon, 14 Sep 2020 19:30:14 GMT status Loading page & waiting for onload
+9:30:14 PM:  ⚠  warning (DeprecationWarning)  OutgoingMessage.prototype._headers is deprecated
+9:30:14 PM: [DEP0066] 
+9:30:14 PM:     at new module.exports (/opt/buildhome/.netlify-build-plugins/node_modules/union/lib/response-stream.js:50:60)
+9:30:14 PM:     at new module.exports (/opt/buildhome/.netlify-build-plugins/node_modules/union/lib/routing-stream.js:30:17)
+9:30:14 PM:     at Server.requestHandler (/opt/buildhome/.netlify-build-plugins/node_modules/union/lib/core.js:27:25)
+9:30:14 PM:     at Server.emit (events.js:310:20)
+9:30:14 PM:     at parserOnIncoming (_http_server.js:786:12)
+9:30:14 PM:     at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: CSSUsage
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: JsUsage
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: ViewportDimensions
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: RuntimeExceptions
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: ConsoleMessages
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: AnchorElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: ImageElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: LinkElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: MetaElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: ScriptElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: IFrameElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: FormElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: MainDocumentContent
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: GlobalListeners
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: AppCacheManifest
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: Doctype
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: DOMStats
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: OptimizedImages
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: PasswordInputsWithPreventedPaste
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: ResponseCompression
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: TagsBlockingFirstPaint
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: FontSize
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: EmbeddedContent
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: RobotsTxt
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: TapTargets
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: Accessibility
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: TraceElements
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: InspectorIssues
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering in-page: SourceMaps
+9:30:17 PM: Mon, 14 Sep 2020 19:30:17 GMT status Gathering trace
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering devtoolsLog & network records
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: CSSUsage
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: JsUsage
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: ViewportDimensions
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: RuntimeExceptions
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: ConsoleMessages
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: AnchorElements
+9:30:18 PM: Mon, 14 Sep 2020 19:30:18 GMT status Gathering: ImageElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: LinkElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: MetaElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: ScriptElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: IFrameElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: FormElements
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: MainDocumentContent
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: GlobalListeners
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: AppCacheManifest
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: Doctype
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: DOMStats
+9:30:19 PM: Mon, 14 Sep 2020 19:30:19 GMT status Gathering: OptimizedImages
+9:30:20 PM: Mon, 14 Sep 2020 19:30:20 GMT status Gathering: PasswordInputsWithPreventedPaste
+9:30:20 PM: Mon, 14 Sep 2020 19:30:20 GMT status Gathering: ResponseCompression
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: TagsBlockingFirstPaint
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: FontSize
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: EmbeddedContent
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: RobotsTxt
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: TapTargets
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: Accessibility
+9:30:21 PM: Mon, 14 Sep 2020 19:30:21 GMT status Gathering: TraceElements
+9:30:22 PM: Mon, 14 Sep 2020 19:30:22 GMT method <= browser ERR:error Animation.resolveAnimation
+9:30:22 PM: Mon, 14 Sep 2020 19:30:22 GMT method <= browser ERR:error Animation.resolveAnimation
+9:30:22 PM: Mon, 14 Sep 2020 19:30:22 GMT status Gathering: InspectorIssues
+9:30:22 PM: Mon, 14 Sep 2020 19:30:22 GMT status Gathering: SourceMaps
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Running offlinePass pass ServiceWorker, Offline, StartUrl
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Resetting state with about:blank
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Setting up network for the pass trace
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Beginning devtoolsLog and trace
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Loading page & waiting for onload
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering in-page: ServiceWorker
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering in-page: Offline
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering in-page: StartUrl
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering devtoolsLog & network records
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering: ServiceWorker
+9:30:23 PM: Mon, 14 Sep 2020 19:30:23 GMT status Gathering: Offline
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering: StartUrl
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Running redirectPass pass HTTPRedirect, HTMLWithoutJavaScript
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Resetting state with about:blank
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Setting up network for the pass trace
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Beginning devtoolsLog and trace
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Loading page & waiting for onload
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering in-page: HTTPRedirect
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering in-page: HTMLWithoutJavaScript
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering devtoolsLog & network records
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering: HTTPRedirect
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Gathering: HTMLWithoutJavaScript
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Disconnecting from browser...
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Analyzing and running audits...
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Uses HTTPS
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Redirects HTTP traffic to HTTPS
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Registers a service worker that controls page and `start_url`
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Current page responds with a 200 when offline
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Has a `<meta name="viewport">` tag with `width` or `initial-scale`
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Contains some content when JavaScript is not available
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: First Contentful Paint
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Largest Contentful Paint
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: First Meaningful Paint
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Page load is fast enough on mobile networks
+9:30:24 PM: Mon, 14 Sep 2020 19:30:24 GMT status Auditing: Speed Index
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Screenshot Thumbnails
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Final Screenshot
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Estimated Input Latency
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Total Blocking Time
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Max Potential First Input Delay
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Cumulative Layout Shift
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: No browser errors logged to the console
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Initial server response time was short
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: First CPU Idle
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Time to Interactive
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: User Timing marks and measures
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Avoid chaining critical requests
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Avoid multiple page redirects
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Web app manifest meets the installability requirements
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Provides a valid `apple-touch-icon`
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Configured for a custom splash screen
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Sets a theme color for the address bar.
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Manifest has a maskable icon
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Content is sized correctly for the viewport
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Displays images with correct aspect ratio
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Serves images with appropriate resolution
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Avoids deprecated APIs
+9:30:25 PM: Mon, 14 Sep 2020 19:30:25 GMT status Auditing: Minimizes main-thread work
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: JavaScript execution time
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Preload key requests
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Preconnect to required origins
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: All text remains visible during webfont loads
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Diagnostics
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Network Requests
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Network Round Trip Times
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Server Backend Latencies
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Tasks
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Metrics
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `start_url` responds with a 200 when offline
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Performance budget
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Timing budget
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Keep request counts low and transfer sizes small
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Minimize third-party usage
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Largest Contentful Paint element
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoid large layout shifts
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoid long main-thread tasks
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids `unload` event listeners
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoid non-composited animations
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Image elements have explicit `width` and `height`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Site works cross-browser
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Page transitions don't feel like they block on the networkMon, 14 Sep 2020 19:30:26 GMT status Auditing: Each page has a URL
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[accesskey]` values are unique
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[aria-*]` attributes match their roles
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[aria-hidden="true"]` is not present on the document `<body>`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[aria-hidden="true"]` elements do not contain focusable descendents
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: ARIA input fields have accessible names
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[role]`s have all required `[aria-*]` attributes
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[role]`s are contained by their required parent element
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[role]` values are valid
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: ARIA toggle fields have accessible names
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[aria-*]` attributes have valid values
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[aria-*]` attributes are valid and not misspelled
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Buttons have an accessible name
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: The page contains a heading, skip link, or landmark region
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Background and foreground colors have a sufficient contrast ratio
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Definition list items are wrapped in `<dl>` elements
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document has a `<title>` element
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[id]` attributes on active, focusable elements are unique
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: ARIA IDs are unique
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: No form fields have multiple labels
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<frame>` or `<iframe>` elements have a title
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Heading elements appear in a sequentially-descending order
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<html>` element has a `[lang]` attribute
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<html>` element has a valid value for its `[lang]` attribute
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Image elements have `[alt]` attributes
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<input type="image">` elements have `[alt]` text
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Form elements have associated labels
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Presentational `<table>` elements avoid using `<th>`, `<caption>` or the `[summary]` attribute.
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Links have a discernible name
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: List items (`<li>`) are contained within `<ul>` or `<ol>` parent elements
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: The document does not use `<meta http-equiv="refresh">`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[user-scalable="no"]` is not used in the `<meta name="viewport">` element and the `[maximum-scale]` attribute is not less than 5.
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<object>` elements have `[alt]` text
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: No element has a `[tabindex]` value greater than 0
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<th>` elements and elements with `[role="columnheader"/"rowheader"]` have data cells they describe.
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `[lang]` attributes have a valid value
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<video>` elements contain a `<track>` element with `[kind="captions"]`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: `<video>` elements contain a `<track>` element with `[kind="description"]`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Custom controls have associated labels
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Custom controls have ARIA roles
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: User focus is not accidentally trapped in a region
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Interactive controls are keyboard focusable
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Interactive elements indicate their purpose and state
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: The page has a logical tab order
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: The user's focus is directed to new content added to the pageMon, 14 Sep 2020 19:30:26 GMT status Auditing: Offscreen content is hidden from assistive technology
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: HTML5 landmark elements are used to improve navigation
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Visual order on the page follows DOM order
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Uses efficient cache policy on static assets
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids enormous network payloads
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Defer offscreen images
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Eliminate render-blocking resources
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Minify CSS
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Minify JavaScript
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Remove unused CSS
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Remove unused JavaScript
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Serve images in next-gen formats
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Efficiently encode images
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Enable text compression
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Properly size images
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Use video formats for animated content
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Remove duplicate modules in JavaScript bundles
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoid serving legacy JavaScript to modern browsers
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids Application Cache
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Page has the HTML doctype
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Properly defines charset
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids an excessive DOM size
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Links to cross-origin destinations are safe
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids requesting the geolocation permission on page load
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids `document.write()`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids front-end JavaScript libraries with known security vulnerabilities
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Detected JavaScript libraries
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Avoids requesting the notification permission on page load
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Allows users to paste into password fields
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Use HTTP/2
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Uses passive listeners to improve scrolling performance
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document has a meta description
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Page has successful HTTP status code
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document uses legible font sizes
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Links have descriptive text
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Links are crawlable
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Page isn’t blocked from indexing
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: robots.txt is valid
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Tap targets are sized appropriately
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document has a valid `hreflang`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document avoids plugins
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Document has a valid `rel=canonical`
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Auditing: Structured data is valid
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT status Generating results...
+9:30:26 PM: Mon, 14 Sep 2020 19:30:26 GMT ChromeLauncher Killing Chrome instance 4413
+9:30:26 PM: {
+9:30:26 PM:   results: [
+9:30:26 PM:     { title: 'Performance', score: 0.23, id: 'performance' },
+9:30:26 PM:     { title: 'Accessibility', score: 0.91, id: 'accessibility' },
+9:30:26 PM:     { title: 'Best Practices', score: 1, id: 'best-practices' },
+9:30:26 PM:     { title: 'SEO', score: 1, id: 'seo' },
+9:30:26 PM:     { title: 'Progressive Web App', score: 0.64, id: 'pwa' }
+9:30:26 PM:   ]
+9:30:26 PM: }
+9:30:26 PM: ​
+9:30:26 PM: (@netlify/plugin-lighthouse onSuccess completed in 13.8s)
+9:30:26 PM: ​
+9:30:26 PM: ┌──────────────────────────────────────────────────────┐
+9:30:26 PM: │ 9. onSuccess command from netlify-plugin-minify-html │
+9:30:26 PM: └──────────────────────────────────────────────────────┘
+9:30:26 PM: ​
+9:30:26 PM: Minifiying HTML in the deploy context: production
+9:30:26 PM: Minifiying HTML with these options: Default
+9:30:27 PM: ​
+9:30:27 PM: (netlify-plugin-minify-html onSuccess completed in 1s)
+9:30:27 PM: ​
+9:30:27 PM: ┌──────────────────────────────────────────────────────────┐
+9:30:27 PM: │ 10. onSuccess command from netlify-plugin-submit-sitemap │
+9:30:27 PM: └──────────────────────────────────────────────────────────┘
+9:30:27 PM: ​
+9:30:27 PM: Going to submit sitemap to google
+9:30:27 PM:  --> URL: https://www.google.com/ping?sitemap=https://www.blackboxmd.click/sitemap.xml
+9:30:27 PM: Going to submit sitemap to bing
+9:30:27 PM:  --> URL: https://www.bing.com/ping?sitemap=https://www.blackboxmd.click/sitemap.xml
+9:30:27 PM: Going to submit sitemap to yandex
+9:30:27 PM:  --> URL: https://webmaster.yandex.ru/ping?sitemap=https://www.blackboxmd.click/sitemap.xml
+9:30:28 PM:  ✓  DONE! Sitemap submitted succesfully to google 
+9:30:28 PM:  ✓  DONE! Sitemap submitted succesfully to bing 
+9:30:28 PM:  ✓  DONE! Sitemap submitted succesfully to yandex 
+9:30:28 PM: ​
+9:30:28 PM: (netlify-plugin-submit-sitemap onSuccess completed in 773ms)
+9:30:28 PM: ​
+9:30:28 PM: ┌─────────────────────────────┐
+9:30:28 PM: │   Netlify Build Complete    │
+9:30:28 PM: └─────────────────────────────┘
+9:30:28 PM: ​
+9:30:28 PM: (Netlify Build completed in 2m 33s)
+9:30:28 PM: Caching artifacts
+9:30:28 PM: Started saving node modules
+9:30:28 PM: Finished saving node modules
+9:30:28 PM: Started saving build plugins
+9:30:28 PM: Finished saving build plugins
+9:30:28 PM: Started saving pip cache
+9:30:29 PM: Finished saving pip cache
+9:30:29 PM: Started saving emacs cask dependencies
+9:30:29 PM: Finished saving emacs cask dependencies
+9:30:29 PM: Started saving maven dependencies
+9:30:29 PM: Finished saving maven dependencies
+9:30:29 PM: Started saving boot dependencies
+9:30:29 PM: Finished saving boot dependencies
+9:30:29 PM: Started saving go dependencies
+9:30:29 PM: Finished saving go dependencies
+9:30:29 PM: Build script success
+9:30:29 PM: Starting to deploy site from 'public'
+9:30:29 PM: Creating deploy tree 
+9:30:29 PM: Creating deploy upload records
+9:30:29 PM: 112 new files to upload
+9:30:29 PM: 0 new functions to upload
+9:30:31 PM: Starting post processing
+9:30:32 PM: Post processing - HTML
+9:30:32 PM: Minifying js bundle
+9:30:34 PM: Minifying js bundle
+9:30:37 PM: Minifying js bundle
+9:30:39 PM: Minifying js bundle
+9:30:41 PM: Minifying js bundle
+9:30:43 PM: Minifying js bundle
+9:30:45 PM: Minifying js bundle
+9:30:47 PM: Minifying js bundle
+9:30:48 PM: Post processing - header rules
+9:30:49 PM: Post processing - redirect rules
+9:30:49 PM: Post processing done
+9:30:49 PM: Site is live
+9:31:04 PM: Finished processing build request in 4m9.585098128s

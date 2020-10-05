@@ -4,7 +4,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
-    `gatsby-transformer-remark`,    
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -39,6 +39,14 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#a37923`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-hubspot',
+      options: {
+        trackingCode: '7395504',
+        respectDNT: true,
+        productionOnly: true,
       },
     },
     {
