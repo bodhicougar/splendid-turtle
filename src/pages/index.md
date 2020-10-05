@@ -66,9 +66,9 @@ sections:
           Interesse stößt.
       - title: Analyse
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Google Analytics ermöglicht Ihnen, durch die Einbindung eines
+          Tracking-Codes in den Code Ihrer Seite, eine kontinuierliche Analyse
+          und statistische Auswertung Ihrer Webseite zu betreiben.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
