@@ -54,7 +54,7 @@ sections:
           Sie können Ihre Google Ads-Konten in der Google Marketing Platform
           verwalten von uns verwalten lassen.
 
-          Analytics, Data Studio, Ads & Tag Manager: Alles zentral zugänglich.
+          Analytics, Data Studio,  Ads & Tag Manager: Alles zentral zugänglich.
       - title: YouTube Werbung
         content: >-
           Mit beliebten Inhalten auf sich aufmerksam machen
@@ -64,15 +64,19 @@ sections:
           genau dann zum Handeln bewegen, wenn sie YouTube Videos aufrufen oder
           suchen – Kosten entstehen dabei nur, wenn die Videoanzeige auf
           Interesse stößt.
-      - title: Service Title
+
+          Und: YouTube ist die zweitgrösste Suchmaschine der Welt.
+      - title: Analyse
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          Google Analytics ermöglicht Ihnen, durch die Einbindung eines
+          Tracking-Codes in den Code Ihrer Seite, eine kontinuierliche Analyse
+          und statistische Auswertung Ihrer Webseite zu betreiben.
+      - title: IAM
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Mit Google Cloud Identity and Access Management (IAM) können
+          Administratoren festlegen, wer Aktionen mit bestimmten Ressourcen
+          ausführen kann. So haben Sie volle Kontrolle und Übersicht bei der
+          zentralen Verwaltung von Google Cloud-Ressourcen. 
       - title: Service title
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -85,8 +89,6 @@ sections:
         type: grid_item
       - title: Service title
         content: >-
-          ## Lorem ipsum
-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
