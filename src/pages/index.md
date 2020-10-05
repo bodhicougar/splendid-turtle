@@ -71,7 +71,7 @@ sections:
           Google Analytics ermöglicht Ihnen, durch die Einbindung eines
           Tracking-Codes in den Code Ihrer Seite, eine kontinuierliche Analyse
           und statistische Auswertung Ihrer Webseite zu betreiben.
-      - title: Service title
+      - title: IAM
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
