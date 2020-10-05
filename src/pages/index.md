@@ -73,8 +73,10 @@ sections:
           und statistische Auswertung Ihrer Webseite zu betreiben.
       - title: IAM
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Mit Google Cloud Identity and Access Management (IAM) können
+          Administratoren festlegen, wer Aktionen mit bestimmten Ressourcen
+          ausführen kann. So haben Sie volle Kontrolle und Übersicht bei der
+          zentralen Verwaltung von Google Cloud-Ressourcen. 
       - title: Service title
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
