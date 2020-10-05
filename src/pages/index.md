@@ -76,7 +76,7 @@ sections:
           Mit Google Cloud Identity and Access Management (IAM) können
           Administratoren festlegen, wer Aktionen mit bestimmten Ressourcen
           ausführen kann. So haben Sie volle Kontrolle und Übersicht bei der
-          zentralen Verwaltung von Google Cloud-Ressourcen. 
+          zentralen Verwaltung von Google Cloud-Ressourcen.
       - title: Service title
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
