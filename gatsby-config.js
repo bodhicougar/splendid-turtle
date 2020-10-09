@@ -44,9 +44,17 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-hubspot',
       options: {
-        trackingCode: `2018853`,
+        trackingCode: `7395504`,
         respectDNT: true,
         productionOnly: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-hotjar`,
+      options: {
+        includeInDevelopment: true, // optional parameter to include script in development
+        id: 2018853,
+        sv: 6,
       },
     },
     {
