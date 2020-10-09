@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-hubspot',
       options: {
-        trackingCode: '2018853',
+        trackingCode: `2018853`,
         respectDNT: true,
         productionOnly: true,
       },
