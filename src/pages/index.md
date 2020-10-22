@@ -7,7 +7,7 @@ sections:
     title: 'Web Strategie + Google Ads Studio: Im Internet gesehen werden!'
     content: >-
       Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google & YouTube
-      - auf Wunsch auch Facebook Ads Kampagnen - erreichen Sie Ihre Zielgruppe
+      - auf Wunsch auch Amazon Ads Kampagnen - erreichen Sie Ihre Zielgruppe
       zukünftig schnell und kosteneffizient.
     actions:
       - label: Kontakt
