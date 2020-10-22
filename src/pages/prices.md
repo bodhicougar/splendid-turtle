@@ -1,7 +1,7 @@
 ---
 title: Start
 hide_title: true
-excerpt: Web Strate
+excerpt: Web Strate!
 sections:
   - section_id: hero
     type: section_hero
