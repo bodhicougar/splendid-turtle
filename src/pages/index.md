@@ -47,7 +47,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Dienstleistungsübersicht
-    subtitle: 'Marketing mit Google, YouTube & Facebook'
+    subtitle: 'Marketing mit Google, YouTube & Amazon'
     col_number: two
     is_numbered: true
     grid_items:
