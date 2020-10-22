@@ -35,7 +35,7 @@ sections:
         new_window: true
         type: action
       - label: Preise
-        url: lorem-ipsum
+        url: /prices
         style: button
         icon_class: lorem-ipsum
         new_window: false
