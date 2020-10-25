@@ -35,7 +35,7 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: E
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
