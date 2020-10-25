@@ -6,9 +6,11 @@ sections:
     type: section_hero
     title: 'Web Strategie + Google Ads Studio: Im Internet gesehen werden!'
     content: >-
+      IHRE Postionierung:\
+
       Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google & YouTube
-      - auf Wunsch auch Amazon Ads Kampagnen - erreichen Sie Ihre Zielgruppe
-      zukünftig schnell und kosteneffizient.
+      - auf Wunsch auch Amazon Ads oder LindedIn Kampagnen - erreichen Sie Ihre
+      Zielgruppe zukünftig schnell und kosteneffizient.
     actions:
       - label: Kontakt
         url: /contact
