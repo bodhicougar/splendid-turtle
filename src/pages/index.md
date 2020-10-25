@@ -35,11 +35,11 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: English
+      - label: In English
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
