@@ -35,11 +35,11 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: Preise
-        url: lorem-ipsum
+      - label: In English
+        url: 'https://www.blackboxmd.work/emarketing-internet-presence/'
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
