@@ -38,7 +38,7 @@ sections:
           - YouTube
           - Amazon Ads
           - LinkedIn Ads
-          - lorem-ipsum
+          - Sonstiges
         is_required: true
       - input_type: textarea
         name: message
