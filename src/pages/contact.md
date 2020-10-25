@@ -37,7 +37,7 @@ sections:
           - Google Ads
           - YouTube
           - Amazon Ads
-          - Sonstiges
+          - LinkedIn Marketing
         is_required: true
       - input_type: textarea
         name: message
