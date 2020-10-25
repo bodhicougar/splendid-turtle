@@ -36,7 +36,7 @@ sections:
         new_window: true
         type: action
       - label: In English
-        url: lorem-ipsum
+        url: 'https://www.blackboxmd.work/emarketing-internet-presence/'
         style: button
         icon_class: lorem-ipsum
         new_window: true
