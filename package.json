@@ -1,7 +1,7 @@
 {
-  "name": "stackbit-exto-theme",
-  "description": "Stackbit Exto Theme",
-  "version": "0.1.2",
+  "name": "startup-portfolio-blog",
+  "description": "Startup Portfolio Blog",
+  "version": "0.1.3",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
