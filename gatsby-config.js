@@ -42,6 +42,22 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-next-seo',
+      options: {
+        openGraph: {
+          type: 'website',
+          locale: 'de_AT',
+          url: 'https://www.blackboxmd.click/',
+          site_name: 'BlackBoxMediaDesign Positionierung',
+        },
+        twitter: {
+          handle: '@BBMediaDesign',
+          site: '@BBMediaDesign',
+          cardType: 'summary_large_image',
+        },
+      },
+    },
+    {
       resolve: 'gatsby-plugin-hubspot',
       options: {
         trackingCode: `7395504`,
