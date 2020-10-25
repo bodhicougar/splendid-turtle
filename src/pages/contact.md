@@ -36,7 +36,7 @@ sections:
         options:
           - Google Ads
           - YouTube
-          - Facebook
+          - Amazon Ads
           - Sonstiges
         is_required: true
       - input_type: textarea
