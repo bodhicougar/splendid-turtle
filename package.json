@@ -43,6 +43,7 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^6.1.0",
     "sprintf-js": "^1.1.2",
+    "update": "^0.7.4",
     "use-sidecar": "^1.0.3"
   }
 }
