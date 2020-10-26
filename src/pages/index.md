@@ -175,7 +175,7 @@ sections:
       - label: Blog anzeigen
         url: blog
         style: button
-      - label: lorem-ipsum
+      - label: Zur Startseite zurück
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
