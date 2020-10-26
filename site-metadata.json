@@ -20,13 +20,13 @@
                 "type": "action"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio",
+                "label": "Leitfaden",
+                "url": "/style-guide/",
                 "style": "link"
             },
             {
-                "label": "Leitfaden",
-                "url": "/style-guide/",
+                "label": "Portfolio",
+                "url": "/portfolio",
                 "style": "link"
             },
             {
