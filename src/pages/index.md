@@ -181,7 +181,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: true
         type: action
-      - label: Zur Startseite zurück
+      - label: Zum Start zurück
         url: '/#hero'
         style: button
         icon_class: lorem-ipsum
