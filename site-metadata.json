@@ -1,5 +1,5 @@
 {
-    "description": "Im Internet gesehen & gefunden werden",
+    "description": "Im Internet gesehen & gefunden werden!",
     "color_scheme": "dark",
     "accent_color": "yellow",
     "header": {
@@ -20,18 +20,18 @@
                 "type": "action"
             },
             {
+                "label": "Leitfaden",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio",
                 "style": "link"
             },
             {
-                "label": "Aktuell",
+                "label": "Blog",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Leitfaden",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
