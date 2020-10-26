@@ -176,7 +176,7 @@ sections:
         url: blog
         style: button
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: 'https://blackboxmd.business.site/?m=true#testimonials'
         style: button
         icon_class: lorem-ipsum
         new_window: false
