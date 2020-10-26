@@ -1,7 +1,7 @@
 ---
 title: 'Profil: Ich über mich'
 subtitle: Profil & Darstellung der Herausforderungen
-image: images/porträit-walter-achammer.jpg
+image: images/BBMD_Logo.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
 ---
