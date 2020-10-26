@@ -185,7 +185,7 @@ sections:
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
-        new_window: true
+        new_window: false
         type: action
 template: advanced
 excerpt: ''
