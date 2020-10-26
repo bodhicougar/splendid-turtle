@@ -128,7 +128,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: Zu
+          - label: Zum
             url: '/#hero'
             style: button
             icon_class: lorem-ipsum
