@@ -1,7 +1,7 @@
 ---
 title: 'Profil: Ich über mich'
 subtitle: Profil & Darstellung der Herausforderungen
-image: images/Polaroid.jpg
+image: images/porträit-walter-achammer.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
 ---
