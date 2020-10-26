@@ -5,11 +5,10 @@ image: images/blackbox_Hintergrund.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Positionierung wird über die Vision, die gelebten Werte, die daraus resultierende Wirkung nach außen in das Angebot & die damit verknüpfte Botschaft die der Kunde erlebt, fühlt & wahrnimmt, eingebaut.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Sei einzigartig & nicht austauschbar. Wer in den heutigen Märkten bestehen will, muss weit über das Mittelmaß hinausgehen. Konsequenz & Engagement vorausgesetzt, zu seiner Vision stehen, Positionierung als inneren Antrieb verstehen, dann kann ein Kompass für deine einzigartige Positionierung entstehen, egal ob es sich um eine Neugründung oder ein schon bestehendes Unternehmen handelt, EPU wie KMU.
 
-*Thank You for reading!*
+*Danke für das Interesse.*
