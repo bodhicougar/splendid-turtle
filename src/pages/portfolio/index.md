@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Ein Überblick über unseren Schaffenszyklus
+subtitle: Ein Überblick über den Schaffenszyklus
 layout_style: mosaic
 template: portfolio
 ---
