@@ -75,14 +75,24 @@
                 "type": "action"
             },
             {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
+                "label": "Google Business.",
+                "url": "https://blackboxmd.business.site/",
                 "style": "link",
-                "new_window": true
+                "icon_class": "lorem-ipsum",
+                "new_window": true,
+                "type": "action"
             }
         ],
         "has_social": true,
         "social_links": [
+            {
+                "label": "Github",
+                "url": "https://github.com/bodhicougar",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true,
+                "type": "action"
+            },
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/BBMediaDesign",
