@@ -8,9 +8,9 @@ sections:
     content: >-
       IHRE Postionierung:\
 
-      Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google & YouTube
-      - auf Wunsch auch Amazon Ads oder LindedIn Kampagnen - erreichen Sie Ihre
-      Zielgruppe zukünftig schnell und kosteneffizient.
+      Durch bedürfnisorientierte Anzeigen in den **Suchmaschinen Google &
+      YouTube** - auf Wunsch auch ***Amazon Ads oder LindedIn Kampagnen*** -
+      erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
     actions:
       - label: Kontakt
         url: /contact
@@ -127,7 +127,13 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions: []
+        actions:
+          - label: Zur Startseite zurück
+            url: hero
+            style: button
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
   - section_id: latest-projects
     type: section_portfolio
@@ -166,9 +172,21 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: Blog anzeigen
+      - label: '**Blog anzeigen**'
         url: blog
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
+      - label: Zur Startseite zurück
+        url: hero
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 excerpt: ''
 ---
