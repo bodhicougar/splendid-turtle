@@ -176,7 +176,7 @@ sections:
         url: blog
         style: button
       - label: Zur Startseite zurück
-        url: lorem-ipsum
+        url: hero
         style: button
         icon_class: lorem-ipsum
         new_window: false
