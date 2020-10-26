@@ -175,14 +175,14 @@ sections:
       - label: '**Blog anzeigen**'
         url: blog
         style: button
-      - label: Zur Startseite zurück
-        url: hero
+      - label: lorem-ipsum
+        url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: lorem-ipsum
-        url: lorem-ipsum
+      - label: Zur Startseite zurück
+        url: hero
         style: button
         icon_class: lorem-ipsum
         new_window: false
