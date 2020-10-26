@@ -181,7 +181,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: true
         type: action
-      - label: Zum Anfang zurück
+      - label: Zum Startpunkt zurück
         url: /
         style: button
         icon_class: lorem-ipsum
