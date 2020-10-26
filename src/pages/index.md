@@ -129,7 +129,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Zum Startseite zurück
-            url: lorem-ipsum
+            url: hero
             style: button
             icon_class: lorem-ipsum
             new_window: false
