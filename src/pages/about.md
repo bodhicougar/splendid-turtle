@@ -3,6 +3,7 @@ title: 'Profil: Ich über mich'
 subtitle: Profil & Darstellung meiner Tätigkeiten
 image: images/about.jpg
 template: page
+excerpt: 'Im Internet gesehen '
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
