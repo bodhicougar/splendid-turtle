@@ -140,7 +140,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: ''
+          - label: Zum Anfang
             url: lorem-ipsum
             style: button
             icon_class: lorem-ipsum
