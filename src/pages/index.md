@@ -129,24 +129,6 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions:
-          - label: Zur Startseite zurück
-            url: hero
-            style: button
-            icon_class: lorem-ipsum
-            new_window: false
-            type: action
-        type: grid_item
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
