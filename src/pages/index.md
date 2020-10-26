@@ -9,7 +9,7 @@ sections:
       IHRE Postionierung:\
 
       Durch bedürfnisorientierte Anzeigen in den **Suchmaschinen Google &
-      YouTube** - auf Wunsch auch *Amazon Ads oder LindedIn Kampagnen* -
+      YouTube** - auf Wunsch auch ***Amazon Ads oder LindedIn Kampagnen*** -
       erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
     actions:
       - label: Kontakt
