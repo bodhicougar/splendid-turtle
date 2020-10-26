@@ -1,5 +1,5 @@
 ---
-title: ProfilÜber uns
+title: 'Profil: Über uns'
 subtitle: Kurze Darstellung unserer Tätigkeiten
 image: images/about.jpg
 template: page
