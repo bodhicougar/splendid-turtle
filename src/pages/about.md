@@ -1,7 +1,7 @@
 ---
 title: 'Profil: Ich über mich'
 subtitle: Profil & Darstellung der Herausforderungen
-image: images/about.jpg
+image: images/Polaroid.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
 ---
