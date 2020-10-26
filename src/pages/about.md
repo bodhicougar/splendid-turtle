@@ -1,6 +1,6 @@
 ---
 title: 'Profil: Ich über mich'
-subtitle: Profil & Darstellung unserer Tätigkeiten
+subtitle: Profil & Darstellung meiner Tätigkeiten
 image: images/about.jpg
 template: page
 ---
