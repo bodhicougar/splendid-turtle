@@ -182,7 +182,7 @@ sections:
         new_window: true
         type: action
       - label: Zur Startseite zurück
-        url: /
+        url: '/#hero'
         style: button
         icon_class: lorem-ipsum
         new_window: false
