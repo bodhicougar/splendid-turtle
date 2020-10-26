@@ -116,7 +116,7 @@
                 "url": "lorem-ipsum",
                 "style": "icon",
                 "icon_class": "fa-github",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
