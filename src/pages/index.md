@@ -172,15 +172,15 @@ sections:
     posts_number: 3
     col_number: three
     actions:
+      - label: '**Blog anzeigen**'
+        url: blog
+        style: button
       - label: Zur Startseite zurück
         url: hero
         style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: '**Blog anzeigen**'
-        url: blog
-        style: button
       - label: lorem-ipsum
         url: lorem-ipsum
         style: button
