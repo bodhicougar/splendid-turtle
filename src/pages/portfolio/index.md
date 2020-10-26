@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Ein Überblick über unseren Schaffenszyklus
 layout_style: mosaic
 template: portfolio
 ---
