@@ -75,12 +75,6 @@
                 "type": "action"
             },
             {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "Google Business.",
                 "url": "https://blackboxmd.business.site/",
                 "style": "link",
