@@ -1,7 +1,7 @@
 ---
 title: 'Profil: Ich über mich'
 subtitle: Profil & Darstellung der Herausforderungen
-image: images/BBMD_Logo.jpg
+image: images/blackbox_Hintergrund.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
 ---
