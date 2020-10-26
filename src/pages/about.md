@@ -1,6 +1,6 @@
 ---
 title: 'Profil: Ich über mich'
-subtitle: Profil & Darstellung meiner Tätigkeiten
+subtitle: Profil & Darstellung der Herausforderungen
 image: images/about.jpg
 template: page
 excerpt: Im Internet gesehen & gefunden werden!
