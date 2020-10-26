@@ -113,7 +113,7 @@
             },
             {
                 "label": "Github",
-                "url": "lorem-ipsum",
+                "url": "https://github.com/bodhicougar",
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true,
