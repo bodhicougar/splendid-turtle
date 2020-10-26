@@ -178,7 +178,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: Blog anzeigen
+      - label: '**Blog anzeigen'
         url: blog
         style: button
 template: advanced
