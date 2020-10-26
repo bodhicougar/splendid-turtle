@@ -79,7 +79,7 @@
                 "url": "https://blackboxmd.business.site/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ],
