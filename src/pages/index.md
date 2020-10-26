@@ -175,7 +175,7 @@ sections:
       - label: '**Blog anzeigen**'
         url: blog
         style: button
-      - label: lorem-ipsum
+      - label: Rezensionen
         url: 'https://blackboxmd.business.site/?m=true#testimonials'
         style: button
         icon_class: lorem-ipsum
