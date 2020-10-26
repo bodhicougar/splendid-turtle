@@ -25,6 +25,11 @@
                 "style": "link"
             },
             {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio",
                 "style": "link"
@@ -32,11 +37,6 @@
             {
                 "label": "Profil",
                 "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "style": "link"
             },
             {
