@@ -112,7 +112,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Github",
                 "url": "lorem-ipsum",
                 "style": "icon",
                 "icon_class": "fa-github",
