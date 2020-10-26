@@ -188,5 +188,5 @@ sections:
         new_window: false
         type: action
 template: advanced
-excerpt: ''
+excerpt: B
 ---
