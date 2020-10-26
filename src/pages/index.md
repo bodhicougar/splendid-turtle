@@ -175,6 +175,12 @@ sections:
       - label: Blog anzeigen
         url: blog
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 excerpt: ''
 ---
