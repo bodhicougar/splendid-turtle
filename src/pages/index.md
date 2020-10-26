@@ -128,7 +128,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: ZumStart
+          - label: Zum Start zu
             url: '/#hero'
             style: button
             icon_class: lorem-ipsum
