@@ -128,7 +128,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: Zum Startpunkt zurück
+          - label: Zum Start
             url: /
             style: button
             icon_class: lorem-ipsum
