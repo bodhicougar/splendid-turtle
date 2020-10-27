@@ -129,7 +129,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Zum Start
-            url: /
+            url: '/#hero'
             style: button
             icon_class: lorem-ipsum
             new_window: false
