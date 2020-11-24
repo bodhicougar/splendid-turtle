@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Web Strategie + Google Ads Studio: Im Internet gesehen werden!'
+    title: 'Web Strategie + PGoogle Ads Studio: Im Internet gesehen werden!'
     content: >-
       IHRE Postionierung:\
 
