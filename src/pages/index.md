@@ -13,6 +13,9 @@ sections:
       Durch bedürfnisorientierte Anzeigen in den **Suchmaschinen Google &
       YouTube** - auf Wunsch auch ***Amazon Ads oder LindedIn Kampagnen*** -
       erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
+
+      Zusammen mit ***Shopify E-Commerce*** eine unschlagbare Kombination für
+      die Märkte von morgen.
     actions:
       - label: Kontakt
         url: /contact
