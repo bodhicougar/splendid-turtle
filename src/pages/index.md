@@ -15,7 +15,7 @@ sections:
       erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
 
       Zusammen mit ***Shopify E-Commerce*** eine unschlagbare Kombination für
-      die Märkte von morgen.
+      die Märkte von heute & morgen.
     actions:
       - label: Kontakt
         url: /contact
