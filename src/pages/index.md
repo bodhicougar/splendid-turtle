@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      Web Strategie und Positionierung mit Google Ads Studio: Im Internet
+      Web Strategeie und Positionierung mit Google Ads Studio: Im Internet
       gesehen werden!
     content: >-
       IHRE Postionierung:\
