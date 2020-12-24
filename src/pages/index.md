@@ -40,12 +40,6 @@ sections:
         icon_class: ''
         new_window: true
         type: action
-      - label: In English
-        url: 'https://www.blackboxmd.work/emarketing-internet-presence/'
-        style: button
-        icon_class: lorem-ipsum
-        new_window: true
-        type: action
   - title: 'Wir stellen uns vor:'
     section_id: YoutTube Video
     content: "<center>\n<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/Q17qYSaB8Lk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\t</center>"
