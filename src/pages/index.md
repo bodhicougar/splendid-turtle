@@ -5,8 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      Web Stratege & Shopify Partner und Positionierung mit Google Ads Studio:
-      Im Internet gesehen werden!
+      Web Stratege & Shopify Partner fürPositionierung mit Google Ads Studio: Im
+      Internet gesehen werden!
     content: >-
       IHRE Postionierung:\
 
