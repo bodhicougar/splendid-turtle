@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: >-
       Web Stratege & Shopify Partner für Positionierung mit Google Ads Studio:
-      Im Internet gesehen werden!
+      Im Internet gesehen werden & verkaufen!
     content: >-
       IHRE Postionierung:\
 
