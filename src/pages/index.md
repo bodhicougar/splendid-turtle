@@ -7,7 +7,7 @@ sections:
     title: >-
       Web Stratege & Shopify Partner für Positionierung mit Google Ads Studio:
       Im Internet gesehen werden & verkaufen!
-    content: >-
+    content: >
       IHRE Postionierung:\
 
       Durch bedürfnisorientierte Anzeigen in den **Suchmaschinen Google &
